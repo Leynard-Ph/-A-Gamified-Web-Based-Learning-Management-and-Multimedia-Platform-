@@ -1,3 +1,7 @@
+# Net? Interactive?: A Gamified Web-Based Learning Management and Multimedia Platform for Network Simulation and Infrastructure Fundamentals
+
+Author: Leynard Ayala Members:Miranda, Reñevo, De Mesa, Chavez, 
+
 # Net Learn PHP system
 
 A new computer-networking learning system built with plain PHP, PDO, MySQL/MariaDB, HTML, CSS, and JavaScript. It does not use Laravel or another framework.
